@@ -1,0 +1,6 @@
+0.0.0.0 api.gateway.tumblr-live.com
+0.0.0.0 auth.gateway.tumblr-live.com
+0.0.0.0 tmg-stream.gateway.tumblr-live.com
+0.0.0.0 video-api.gateway.tumblr-live.com
+0.0.0.0 video-live.gateway.tumblr-live.com
+0.0.0.0 assets.video.tumblr-live.com
